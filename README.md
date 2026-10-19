@@ -1,6 +1,6 @@
 # Gurinder Meelu’s Portfolio
 
-A small portfolio site I built with React and Next.js for COMP2112 Assignment 1.
+A personal portfolio site built with React and Next.js.
 
 ## Pages
 
@@ -16,13 +16,13 @@ The site has five pages: Home, About, Projects, Skills, and Contact.
 
 ## Project structure
 
-The project uses the Next.js App Router structure we used in class:
+The project uses the Next.js App Router structure:
 
 - `app/` contains the route folders, root layout, and global stylesheet.
 - `app/components/` contains shared UI components.
 - `public/` contains the portfolio's illustrative placeholder images.
 
-The navigation uses the `usePathname` hook to highlight the current page. The Skills page also mentions class topics such as Context, form validation, and rich-text editing. They’re included as things I’ve studied, not as claims that every topic is part of this portfolio.
+The navigation uses the `usePathname` hook to highlight the current page.
 
 
 When you want to check the production build, run `npm run build`.
@@ -30,5 +30,4 @@ When you want to check the production build, run `npm run build`.
 ## Live website
 
 The site deployed Render link 
-
 

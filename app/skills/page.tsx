@@ -23,9 +23,8 @@ export default function Skills() {
         <p className="eyebrow">TOOLS AND TOPICS</p>
         <h1>Technical skills</h1>
         <p className="intro">
-          I&apos;ve been exploring these topics in my COMP2112 React and Next.js
-          class. Some are behind this portfolio, while others came up as we
-          built out the class blog.
+          These are some of the tools and topics I&apos;ve been learning and
+          exploring as I build for the web.
         </p>
         <div className="skill-grid">
           {groups.map((group) => (
@@ -41,13 +40,6 @@ export default function Skills() {
             </section>
           ))}
         </div>
-        <p className="note">
-          I based this list on the{' '}
-          <a href="https://github.com/ifotn/comp2112-react-blog-f26">
-            COMP2112 React Blog class project
-          </a>
-          .
-        </p>
       </section>
     </main>
   );

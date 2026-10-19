@@ -35,11 +35,7 @@ export default function Home() {
           </div>
         </div>
         <figure className="home-portrait">
-          <img
-            src="/Home%20Page.jpeg"
-            
-          />
-          
+          <img src="/About.jpeg" alt="Gurinder standing outdoors" />
         </figure>
       </section>
     </main>
