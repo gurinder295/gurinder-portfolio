@@ -31,6 +31,4 @@ When you want to check the production build, run `npm run build`.
 
 The site deployed Render link 
 
-## Before submitting
 
-Before handing it in, I’ll swap the profile illustration for a recent photo and add screenshots of my projects. I’ll also check that the content feels like me and cite any outside code if required. The current project images are illustrations, not screenshots of finished work.
